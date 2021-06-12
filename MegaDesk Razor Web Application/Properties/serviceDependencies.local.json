@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql.local",
+      "connectionId": "MegaDesk_Razor_Web_ApplicationContext"
+    }
+  }
+}
